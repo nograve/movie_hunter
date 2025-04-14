@@ -1,0 +1,4 @@
+#Mon Apr 14 10:52:37 EEST 2025
+base.0=/Users/ihor/Projects/movie_hunter/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
